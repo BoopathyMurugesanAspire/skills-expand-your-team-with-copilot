@@ -2,6 +2,7 @@
 
 For detailed setup and development instructions, please refer to our [Development Guide](../docs/how-to-develop.md).
 
+### Copilot Instructions
 ### User Interaction
 
 Consider the following when communicating with the staff.
